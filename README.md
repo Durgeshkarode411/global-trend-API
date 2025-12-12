@@ -1,7 +1,4 @@
-
-GLOBAL TREND — API Integration Assignment
-
-This project is a solution to the API Integration Internship assignment. It uses JSONPlaceholder API.
+This project is a solution to the API Integration Internship, Where I uses JSONPlaceholder API.
 
 Setup:
 
